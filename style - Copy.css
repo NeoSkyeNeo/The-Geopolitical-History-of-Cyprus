@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    line-height: 1.5;
+}
+header{
+    background: #ececec;
+    position: sticky;
+    top:0;
+    width: 100%;
+    z-index: 1111;
+    height: 19%;
+    margin-bottom: 2%;
+    
+
+}
+.main-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+ul{
+    display: flex;
+    list-style:none;
+
+}
+nav li{
+    padding:5px 10px;
+    border: none;
+    display: inline-block;
+    padding:5px;
+    transition: all linear 0.5s;
+    margin-right: 20px;
+
+}
+nav li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    padding: 5px;
+}
+section{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+section h1{
+    font-size: 4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 0.8;
+    color: #fff;
+    text-shadow: 5px 10px 5px rgba(0,0,0,0.5);
+}
+#Location{
+    background: linear-gradient(rgba(0,0,0,0.5));
+
+}
+#context{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#externalrule{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#turksandgreeks{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#britain{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#revolt{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#treaties{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#coup{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#turkishinvasion{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#thetrnc{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+}
+#sources{
+    background: linear-gradient(rgba(0,0,0,0.5));
+    
+    
+    
+
+}
+
+.textpadding{
+padding-left: 2%;
+padding-right: 2%;
+padding-bottom: 1%;
+}
+.textpaddingcontext{
+    padding-left: 10%;
+    padding-right: 10%
+
+}
+.imgtextpadding{
+    padding-top: 1%;
+}
+
+
+
+.imgcyprus{
+    height:100%;
+    width:100%;
+
+}
+
+
+
+
+.imgtextpadding{
+    padding-top: 2%;
+}
+.text{
+    font-size: 40px;
+}
+.active{
+    background: orangered;
+    display: inline-block;
+    padding: 5px;
+
+}
+.time{
+    width: 1000px;
+    height: 100%;
+}
+    
+
+
+
